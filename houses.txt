@@ -1,0 +1,6 @@
+123,Red Street,Buffalo,NY,14214,250000,255000
+321,Blue Street,Buffalo,NY,14214,200000,205000
+456,Green Street,Buffalo,NY,14214,225000,235000
+654,Yellow Street,Buffalo,NY,14222,149000,129000
+789,Purple Street,Buffalo,NY,14222,129000,115000
+987,Brown Street,Buffalo,NY,14222,299000,279000
